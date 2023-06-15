@@ -1,0 +1,12 @@
+.title{
+    font: bold; font-family: Arial, Helvetica, sans-serif;
+}
+.recipeoptions{
+    font-size: 50px; 
+}
+.imageofme{
+    width: 300px; place-items: center;
+}
+body{
+    background: black;
+}
