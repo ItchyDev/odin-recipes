@@ -5,8 +5,14 @@
     font-size: 50px; 
 }
 .imageofme{
-    width: 300px; place-items: center;
+    width: 300px; margin: 20px; 
 }
 body{
     background-color: rgb(228, 143, 143); font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.belowisapicture{
+    margin: 20px; border: 5px black; padding: 5px; 
 }
